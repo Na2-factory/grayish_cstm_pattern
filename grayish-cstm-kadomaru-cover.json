@@ -1,0 +1,6 @@
+{
+  "__file": "wp_block",
+  "title": "grayish-cstm-kadomaru-cover",
+  "content": "<!-- wp:cover {\"overlayColor\":\"sdblue-fifty\",\"align\":\"full\",\"style\":{\"border\":{\"radius\":\"40px\"}},\"className\":\"cstm-blk-fullwide-inner\",\"layout\":{\"type\":\"constrained\"}} -->\n<div class=\"wp-block-cover alignfull cstm-blk-fullwide-inner\" style=\"border-radius:40px\"><span aria-hidden=\"true\" class=\"wp-block-cover__background has-sdblue-fifty-background-color has-background-dim-100 has-background-dim\"></span><div class=\"wp-block-cover__inner-container\"><!-- wp:paragraph {\"align\":\"center\",\"style\":{\"elements\":{\"link\":{\"color\":{\"text\":\"var:preset|color|white\"}}}},\"textColor\":\"white\"} -->\n<p class=\"has-text-align-center has-white-color has-text-color has-link-color\">背景色のみ設定したカバーブロック<br>角丸に設定</p>\n<!-- /wp:paragraph --></div></div>\n<!-- /wp:cover -->",
+  "syncStatus": "unsynced"
+}
